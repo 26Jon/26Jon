@@ -11,7 +11,7 @@ I'm a passionate Software Engineering (SE) student currently pursuing my degree.
 - Gaining more knowledge and hands-on experience in frontend framework like React.js
 - Improving my knowledge of database management systems like MySQL and MongoDB.
 
-📫 How to Reach Me
+## 📫 How to Reach Me
 Feel free to reach out if you'd like to collaborate on a project or discuss anything tech-related:
 
 - Email: jonathanwong1214@gmail.com
