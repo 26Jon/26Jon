@@ -6,7 +6,7 @@ I'm currently pursuing a degree in Software Engineering with a passion for solvi
 ## Expectations from This Course
 I'm excited to join the Software Maintenance and Evolution course because it will help me:
 
-Gain a deeper understanding of maintaining software systems over their lifecycle and learn techniques for refactoring, bug fixing, and adapting software to changing requirements.
-Develop skills in managing legacy systems, analyzing the impact of changes, and applying industry best practices for software evolution.
-Enhance my knowledge of version control, configuration management, and release management for maintaining robust and scalable software.
-Learn how to tackle technical debt, ensuring that the software remains maintainable and adaptable in the future.
+- Gain a deeper understanding of maintaining software systems over their lifecycle and learn techniques for refactoring, bug fixing, and adapting software to changing requirements.
+- Develop skills in managing legacy systems, analyzing the impact of changes, and applying industry best practices for software evolution.
+- Enhance my knowledge of version control, configuration management, and release management for maintaining robust and scalable software.
+- Learn how to tackle technical debt, ensuring that the software remains maintainable and adaptable in the future.
