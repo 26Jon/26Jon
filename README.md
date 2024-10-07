@@ -1,12 +1,19 @@
 ### Hi, I'm Jonathan Wong Siew Ho! 👋
+## 👨‍💻 About Me
+I'm a passionate Software Engineering (SE) student currently pursuing my degree. I love exploring the world of technology and enjoy learning about various aspects of software development, from front-end design to backend systems and databases. I believe in continuous learning and enjoy solving complex problems through code.
 
-## About Me as a Software Engineering Student
-I'm currently pursuing a degree in Software Engineering with a passion for solving problems and building innovative software solutions. As an SE student, I love exploring different areas of software development, from designing intuitive user interfaces to working on the backend systems that power them. My academic journey has given me the opportunity to work with various programming languages and tools, and I’m always eager to learn more and expand my skillset.
+## 🚀 My Key Interests:
+Full-Stack Development: I enjoy working across both front-end and back-end technologies.
+Software Architecture: I have a keen interest in designing scalable and efficient software systems.
 
-## Expectations from This Course
-I'm excited to join the Software Maintenance and Evolution course because it will help me:
+## 🌱 What I'm Currently Learning
+Enhancing my skills in backend development with Node.js and Express.
+Gaining more knowledge and hands-on experience in frontend framework like React.js
+Improving my knowledge of database management systems like MySQL and MongoDB.
 
-- Gain a deeper understanding of maintaining software systems over their lifecycle and learn techniques for refactoring, bug fixing, and adapting software to changing requirements.
-- Develop skills in managing legacy systems, analyzing the impact of changes, and applying industry best practices for software evolution.
-- Enhance my knowledge of version control, configuration management, and release management for maintaining robust and scalable software.
-- Learn how to tackle technical debt, ensuring that the software remains maintainable and adaptable in the future.
+📫 How to Reach Me
+Feel free to reach out if you'd like to collaborate on a project or discuss anything tech-related:
+
+Email: jonathanwong1214@gmail.com
+LinkedIn: [Jonathan Wong Siew Ho](www.linkedin.com/in/jonathan-wong-s-412862214)
+GitHub: 26Jon
