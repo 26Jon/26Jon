@@ -15,5 +15,5 @@ I'm a passionate Software Engineering (SE) student currently pursuing my degree.
 Feel free to reach out if you'd like to collaborate on a project or discuss anything tech-related:
 
 - Email: jonathanwong1214@gmail.com
-- LinkedIn: [Jonathan Wong Siew Ho](www.linkedin.com/in/jonathan-wong-s-412862214)
+- LinkedIn: [Jonathan Wong Siew Ho](https://www.linkedin.com/in/jonathan-wong-s-412862214/)
 - GitHub: 26Jon
