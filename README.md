@@ -3,8 +3,8 @@
 I'm a passionate Software Engineering (SE) student currently pursuing my degree. I love exploring the world of technology and enjoy learning about various aspects of software development, from front-end design to backend systems and databases. I believe in continuous learning and enjoy solving complex problems through code.
 
 ## 🚀 My Key Interests:
-Full-Stack Development: I enjoy working across both front-end and back-end technologies.
-Software Architecture: I have a keen interest in designing scalable and efficient software systems.
+- Full-Stack Development: I enjoy working across both front-end and back-end technologies.
+- Software Architecture: I have a keen interest in designing scalable and efficient software systems.
 
 ## 🌱 What I'm Currently Learning
 Enhancing my skills in backend development with Node.js and Express.
