@@ -7,13 +7,13 @@ I'm a passionate Software Engineering (SE) student currently pursuing my degree.
 - Software Architecture: I have a keen interest in designing scalable and efficient software systems.
 
 ## 🌱 What I'm Currently Learning
-Enhancing my skills in backend development with Node.js and Express.
-Gaining more knowledge and hands-on experience in frontend framework like React.js
-Improving my knowledge of database management systems like MySQL and MongoDB.
+- Enhancing my skills in backend development with Node.js and Express.
+- Gaining more knowledge and hands-on experience in frontend framework like React.js
+- Improving my knowledge of database management systems like MySQL and MongoDB.
 
 📫 How to Reach Me
 Feel free to reach out if you'd like to collaborate on a project or discuss anything tech-related:
 
-Email: jonathanwong1214@gmail.com
-LinkedIn: [Jonathan Wong Siew Ho](www.linkedin.com/in/jonathan-wong-s-412862214)
-GitHub: 26Jon
+- Email: jonathanwong1214@gmail.com
+- LinkedIn: [Jonathan Wong Siew Ho](www.linkedin.com/in/jonathan-wong-s-412862214)
+- GitHub: 26Jon
